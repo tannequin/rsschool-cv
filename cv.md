@@ -1,22 +1,17 @@
 #TANYA KUSHNER
 
 
-
-
 ##CONTACT
 
+1.***E-mail:*** tanyakushner@gmail.com
+2.***Phone:*** +375293184024
+3.***Discord:*** tannequin#2138
 
-***E-mail:*** tanyakushner@gmail.com
-***Phone:*** +375293184024
-***Discord:*** tannequin#2138
 
-
-========
 ##ABOUT ME
 
 I am a songwriter, a translator and a teacher of languages. Some of my students work in IT and they inspire me to try learning new things at RSS. 
 
-========
 
 ##MY SKILLS
 
@@ -26,13 +21,11 @@ I am a songwriter, a translator and a teacher of languages. Some of my students 
 +Attention to details
 +Problem solving
 
-=========
 
 ##EDUCATION
 
 Minsk State Linguistic University 
 
-========
 
 ##LANGUAGES
 
