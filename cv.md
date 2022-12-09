@@ -32,3 +32,5 @@ Minsk State Linguistic University
 *ENGLISH - C1
 *GERMAN - B2
 *BELARUSIAN - B2
+
+![tannequin](https://scontent-arn2-2.xx.fbcdn.net/v/t1.6435-9/91501301_10216847995493906_5026082648036999168_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=VsBAzkqE1igAX-tDKYS&_nc_ht=scontent-arn2-2.xx&oh=00_AfBf_B657QMd7UsXcWcAS26E89R0HV092hkBnpkq0FmnRw&oe=63BAD7DD)
